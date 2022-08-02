@@ -7,4 +7,4 @@
 - Creating a new branch is quick.
 test diff
 - Creating a new branch is quick & simple.
-
+- 分支管理策略
